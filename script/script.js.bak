@@ -1,0 +1,17 @@
+/*LANDING*/
+/*newsletter form*/
+
+function formSubmission(){
+	document.getElementById("formNewsletter").style.display = "none";
+
+
+    alert("Thank you! Enjoy our weekly Newsletter");
+}
+
+/*LISTEN*/
+
+function play(song){
+	const audio = new Audio(`../sounds/${song}`);
+	audio.play();
+	console.log(audio);
+    }

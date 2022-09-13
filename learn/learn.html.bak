@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Sound As A Bell</title>
+			<meta charset="utf-8">
+			<meta name="description" content="learning and listening to world musical instruments">
+			<meta name="keywords" content="music, musical, instruments, world, worldwide, listen, learn">
+			<meta name="viewport" content="width-device-width, initial-scale=1">
+
+			<!--External CSS sheet-->
+			<link rel="stylesheet" href="../css/style.css">
+			<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	</head>
+	<body>
+		<!--HEADER-->
+			<nav class="navbar navbar-fixed-top">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<a class="navbar-brand" href="../index.html">SOUND AS A BELL</a>
+							</div>
+								<ul class="navbar-brand">
+									<li><a href="../index.html">Home</a></li>
+									<li><a href="../listen/listen.html">Listen</a></li>
+									<li><a href="learn.html">Learn</a></li>
+									<li><a href="../look/look.html">Look</a></li>
+									<li><a href="../contact/contact.html">Contact Us</a></li>
+									<li><a href="../privacy/privacy.html">Privacy</a></li>
+								</ul>
+							<div>
+			</nav>
+
+		<br></br>
+		<br></br>
+
+		<div>
+
+		
+<div class="container">		
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Xun - China</p>
+					<img src="../images/Xun.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The xun is an ancient wind instrument made of mud or clay and resembles an egg, with flat bottom. Although not possible to determine how old the instrument is, all findings have shown that it has a long history.
+					   The Chinese xun was mainly used to perform court music, but it was also played amongst the common people.
+					 During that period, the xun was known to possess only one to five playing holes. Today, xuns that are used in the Chinese orchestra possess up to eight or nine playing holes, thus rendering them able to play a full octave.<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Hardanger - Finland</p>
+					<img src="../images/Hardanger.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The Hardanger fiddle (in Norwegian, hardingfele) is often called the national instrument of Norway and it is similar to the violin. The instrument probably originated in the area around the Hardanger fjord of Norway — whence comes the English language name. 
+					   The oldest known fiddle, the "Jaastad Fiddle," may date from as early as 1651. The primary purpose of the hardingfele is to be played for dancers. Hardingfeler can be played for waltz, reinlender/schottis, pols, etc., but are most associated with Norwegian regional dances.<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Bouzouki - Greece</p>
+					<img src="../images/Bouzouki.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p><p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Sarod - India</p>
+					<img src="../images/Sarod.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The sarod is a stringed instrument, used mainly in Hindustani music, along with the sitar it is among the most popular and prominent instruments on the Indian subcontinent. It is known for a deep, weighty, introspective sound, in contrast with the sweet, overtone-rich texture of the sitar, with sympathetic strings that give it a resonant, reverberant quality. A fretless instrument, it can produce the continuous slides between notes known as meend (glissandi), which are important in Indian music.<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>	
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Cuícas - Brazil</p>
+					<img src="../images/Cuica.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The cuíca is a Brazilian friction drum with a large pitch range, produced by changing tension on the head of the drum. Cuíca is Portuguese for the gray four-eyed opossum (Philander opossum) which is known for its high-pitched cry. It is frequently used in carnivals,[1] as well as often in samba music. The tone it produces has a high-pitched squeaky timbre. It has been called a 'laughing gourd' due to this sound. Many also liken its sound to that of a monkey.
+<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Xaphoon - Hawaii</p>
+					<img src="../images/Xaphoon.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The first Xaphoon was created by the Hawaiian saxophonist Brian Wittman with the intention to create an instrument for young child who liked the sound of the saxophone, its tone sounds like a clarinet or a saxophone, and is suitable for playing music in similar genres such as jazz or klezmer, although it has also been used to play music of other traditions<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Bandura - Ukraine</p>
+					<img src="../images/Bandura.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The bandura is the instrument that best embodies the voice and soul of Ukraine. From a musical perspective, the bandura unifies acoustic principles of both the lute and the harp.
+					   The modern bandura has between 20 and 65 strings and is tuned like a piano rather than a guitar.
+					   Although the bandura can be used to perform complex works like sonatas and concerti, the Ukrainian bandura was historically used as an instrument for vocal accompaniment.
+<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Koto - Japan</p>
+					<img src="../images/Koto.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The Koto is a traditional Japanese musical instrument. It originated from the Chinese Guzheng but developed its own tradition in Japan since the 8th century. It was exclusively played as a form of entertainment in the imperial courts for a long time.
+					   Traditionally the Koto is stringed with silk and was originally laid on the ground when played. Today there are Koto instruments that can be played standing on special stages with pits that are in the floor.<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Uileann Pipes - Ireland</p>
+					<img src="../images/UilleannPipes.png">
+				</div>
+				<div class="flip-box-back">	
+					<p>The first Uilleann pipe was invented by Granttan Flood and are characteristic national Irish bagpipe and were originally known in English as “Union Pipes, its translation from the Irish language is "pipes of the elbow". 
+					   The tone of the uilleann pipes is unlike that of many other forms of bagpipes. They have a different harmonic structure, sounding sweeter and quieter than many other bagpipes, such as the Great Irish war pipes, Great Highland bagpipes or the Italian zampognas. The uilleann pipes are often played indoors, and are almost always played sitting down.
+<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Bullroarer - Australia</p>
+					<img src="../images/Bullroarer.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>Bullroarers are one of the earliest artifacts that can be classified as a musical instrument, having been used by many different cultures over nearly 20,000 years.  Bullroarers are used by holding the string in one hand and whirling the piece of wood.  As it moves through the air, it creates a low pitched sound capable of traveling long distances.
+					   Australian Aboriginal people use the bullroarer during initiation ceremonies and other rituals, including burials. 
+<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Mbira - Zimbabwe</p>
+					<img src="../images/Mbira.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The thumb piano, or mbira – a name derived from Shona language of Zimbabwe - is uniquely African percussion instrument. Mbira was used in ceremonial functions such as weddings, funerals, and in honour of significant people, as well as for religious purposes.
+					   In the second half of the 20th century the African thumb piano was adopted by contemporary musicians, especially in Europe and both Americas.<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+		<div class="flip-box">
+			<div class="flip-box-inner">
+				<div class="flip-box-front">
+					<p>Zurna - Armenia</p>
+					<img src="../images/Zurna.jpg">
+				</div>
+				<div class="flip-box-back">	
+					<p>The first Xaphoon was created by the Hawaiian saxophonist Brian Wittman with the intention to create an instrument for young child who liked the sound of the saxophone, its tone sounds like a clarinet or a saxophone, and is suitable for playing music in similar genres such as jazz or klezmer, although it has also been used to play music of other traditions<p>
+				<button onclick="book()">Book</button>
+				</div>
+			</div>	
+		</div>
+	</div>	
+
+    <footer>Thanks to Sounds, Zapsplat and FreeImages</footer>
+
+	<script src="../script/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+ 	</body>
+ </html>

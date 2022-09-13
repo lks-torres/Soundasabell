@@ -1,0 +1,164 @@
+
+
+body{
+
+	margin: 0;
+
+}
+
+p{
+
+	text-align: center;
+
+}
+
+.landingHeader{
+	font-family: Work Sans;
+	font-size: 70px;
+	font-weight: 400;
+	color: white;
+	text-shadow: 2px 2px #FFAE42;
+	text-align: center;
+	position: relative;
+	top:30%;
+	right: 0%;
+}
+
+.landing{
+
+	background-image: url('../images/carousel3.jpg');
+	background-size: cover;
+	background-position: center;	
+	height: 160vh;
+							
+}
+
+
+.landingLine{
+
+	width: 100%;
+	height: auto;
+	border: solid 2px;
+	color: #FFAE42;
+
+}
+
+.landingSect{
+
+	font-family: Work Sans;
+	font-size: 20px;
+	color: teal;
+	font-weight: bold;
+
+}
+
+.landingContent1{
+	
+		width: 100%;
+		height: auto;
+		background: #ffffff;
+	
+		/*FLEXBOX*/
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		flex-flow: wrap;
+
+}
+
+.landingCol{
+
+	width: 200px;
+	height: 200px;
+	background: #FFAE42;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	margin: 20px;
+	padding: 15px;
+	box-sizing: border-box;
+	box-shadow: 5px 5px #888888;
+	border: 1px solid;
+	border-radius: 50px;
+	font: Work Sans;
+	font-size: 15px;
+	color: teal;	
+}
+
+.landingGallery{
+
+	margin: 10px 50px;
+}
+
+.landingGallery img{
+
+	transition: 1s;
+	padding: 15px;
+	width: 400px;
+}
+
+.landingGallery img:hover {
+
+	transform: scale(1.1);
+}
+
+.newsletter{
+
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+	background: #FFE7C7;
+	border: solid 1px;
+	box-shadow: 5px 5px #888888;
+	color: teal;
+	border-radius: 5px;
+	
+	/*FLEXBOX*/
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	flex-flow: wrap;
+
+
+}
+
+	
+/*NAVBAR*/
+
+.navbar-brand{
+
+	font-family: Work Sans;
+	color: white;
+	list-style-type: none;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav { 
+	width: 100%; 
+	float: right;  
+	margin: auto;
+	padding: auto; 
+	list-style-type: none; 
+	background-color: #FFAE42;  
+} 
+
+nav li { 
+	float: left; 
+}
+
+nav li a { 
+
+	padding: 40px 40px; 
+	list-style-type: none;
+	text-decoration: none; 
+	font-weight: bold; 
+	color: white;  
+} 
+
+nav li a:hover { 
+	color: #80715E; 
+	background-color: #FFFFFF; 
+	opacity: 0.5;
+} 
