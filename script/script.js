@@ -7,12 +7,20 @@ function formSubmission(){
 }
 
 /*LISTEN*/
+let currentlyPlayingAudio = null;
 
-function play(song){
-	const audio = new Audio(`../sounds/${song}`);
-	audio.play();
-	console.log(audio);
+function play(song) {
+    if (currentlyPlayingAudio && !currentlyPlayingAudio.paused) {
+        currentlyPlayingAudio.pause();
     }
+
+    const audio = new Audio(`../sounds/${song}`);
+    audio.play();
+    console.log(audio);
+
+    currentlyPlayingAudio = audio;
+}
+
 
 //Learn
 function book(){
@@ -20,15 +28,14 @@ function book(){
 	var email;
 	name=prompt("Please enter your name");
 	email = prompt("Please enter your email");
-
+	if(name!="" && email!="" ){
+    alert("Hi " +  name + " , your request was sent to your instructor and he will be in contact with you for more information");
+	}
 	if(name===""){
     alert("Please enter your name");
 	}
 	if(email===""){
     alert("Please enter your email");
-	}
-	else{
-		alert("Hi " +  name + " , your request was sent to your instructor and he will be in contact with you for more information");
 	}
 }
 
