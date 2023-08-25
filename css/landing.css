@@ -133,6 +133,7 @@ p{
 	text-decoration: none;
 	margin: 0;
 	padding: 0;
+	border-radius: 12px;
 }
 
 nav { 
@@ -140,6 +141,7 @@ nav {
 	float: right;  
 	margin: auto;
 	padding: auto; 
+	border-radius: 12px;
 	list-style-type: none; 
 	background-color: #FFAE42;  
 } 
